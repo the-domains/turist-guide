@@ -1,0 +1,23 @@
+name: Turist Guide
+favicon: null
+layout_spectrum: 0.37714889692142606
+typography_spectrum: 0.18986134650185704
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2315777544863522
+  lightness: 0.7169918708968908
+  saturation: 0.4518261149059981
+  rhythmicContrast: 0.43623724416829646
+purpose: []
