@@ -4,7 +4,7 @@
         <description><![CDATA[Turist Guide]]></description>
         <link>https://thegrid.ai/turist-guide/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 Nov 2015 13:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2015 13:14:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/turist-guide/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[iPhone 6s - Apple]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.apple.com/iphone-6s/</link>
             <guid isPermaLink="false">ddebaac9-2e0b-420c-9979-26ee6480b4f6</guid>
             <pubDate>Sun, 01 Nov 2015 13:12:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iOS 9 - Apple]]></title>
+            <description><![CDATA[<article><h1>iOS 9 - Apple</h1><p>iOS 9 is the biggest iOS release ever. It comes with updates to apps you use every day and exciting new connections between apps and between devices.</p><img src="http://www.apple.com/ios/images/og.jpg?201509231836"></article>]]></description>
+            <link>http://www.apple.com/ios/</link>
+            <guid isPermaLink="false">b2a54faa-5c20-47a6-a541-344a87d3303d</guid>
+            <pubDate>Sun, 01 Nov 2015 13:14:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
